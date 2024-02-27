@@ -1,6 +1,6 @@
 {
   "name": "sun-zustand-vue",
-  "version": "1.0.0-beta.20",
+  "version": "1.0.0-beta.21",
   "description": "State management for vue based on zustand",
   "main": "build/index.js",
   "module": "build/index.es.js",
@@ -13,7 +13,7 @@
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AwesomeDevin/zustand-vue.git"
+    "url": "git+https://github.com/aehyok/sun-zustand-vue.git"
   },
   "files": [
     "build/"
@@ -29,9 +29,9 @@
   "author": "AwesomeDevin",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AwesomeDevin/zustand-vue/issues"
+    "url": "https://github.com/aehyok/sun-zustand-vue/issues"
   },
-  "homepage": "https://github.com/AwesomeDevin/zustand-vue#readme",
+  "homepage": "https://github.com/aehyok/sun-zustand-vue#readme",
   "dependencies": {
     "rollup": "^4.12.0",
     "zustand": "^4.1.4"
