@@ -1,3 +1,6 @@
+# 官网有个bug，这里是修复后的版本
+因为npm和yarn都存在问题，这里暂时使用的是pnpm i进行的
+
 # zustand-vue
 [![Build Size](https://img.shields.io/bundlephobia/minzip/zustand-vue?label=bundle%20size)](https://bundlephobia.com/result?p=zustand-vue)
 [![Version](https://img.shields.io/npm/v/zustand-vue?style=flat)](https://www.npmjs.com/package/zustand-vue)
